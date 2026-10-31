@@ -127,7 +127,6 @@ python3 bench/experimento.py ./node perda R 50 64 -p 0.2 -w 2000
 | `bench/experimento.py` | Roda um cenário. Ferramenta de teste, não faz parte da pilha. |
 | `bench/roda_tudo.sh` | Roda todos os cenários do relatório. |
 | `bench/resultados.csv` | Resultados usados no relatório. |
-| `relatorio.md` | Relatório técnico. |
 
 Os formatos de quadro, pacote, segmento e das mensagens de aplicação
 estão em `../docs/PROTOCOL.md` (e no relatório).
